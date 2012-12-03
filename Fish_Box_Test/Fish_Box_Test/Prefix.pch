@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Fish_Box_Test' target in the 'Fish_Box_Test' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
